@@ -46,7 +46,11 @@ https://pico.pinout.xyz <br/> <br/>
 
 <img width="256" alt="Image" src="https://github.com/user-attachments/assets/94826334-864b-4826-b535-8c413edb676c" /> <br/>
 
-<img width="195" alt="Image" src="https://github.com/user-attachments/assets/6bf9f52b-dbef-43ec-a0e3-3957afd902f8" /> <br/> <br/>
+<img width="195" alt="Image" src="https://github.com/user-attachments/assets/6bf9f52b-dbef-43ec-a0e3-3957afd902f8" /> <br/>
+
+https://digilent.com/reference/_media/reference/pmod/pmodgyro/pmodgyro_rm.pdf <br/>
+
+https://digilent.com/reference/_media/reference/pmod/pmodgyro/stmicroelectronics-l3g4200d-datasheet.pdf <br/> <br/>
 
 Berk Muammer Kuzu - AnadoLogic\
 https://www.linkedin.com/in/berk-muammer-kuzu/
