@@ -3,6 +3,14 @@
 //Berk Muammer Kuzu - Anadologic
 //Raspberry_Pico_2040_I2C_Gyro
 
+
+//The Pmod GYRO utilizes ST L3G4200D gyroscope to provide motion sensing data on each of the three Cartesian axes. 
+//Users may configure both the resolution and filtering options for the measured data.
+
+//------------------------------------------------------------------------------------------------------//
+//https://digilent.com/reference/_media/reference/pmod/pmodgyro/stmicroelectronics-l3g4200d-datasheet.pdf
+//------------------------------------------------------------------------------------------------------//
+
 /////////////////////////////////////////////
 #include "pico/stdlib.h"
 #include "hardware/i2c.h"
