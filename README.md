@@ -31,13 +31,22 @@ https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf <br/> 
 
 
 ------------------------------------------------------------------------------------- <br/>
------------------------------Raspberry Pi Pico Pinout----------------------------- <br/>
+-------------------------------RaspberryPico Pinout------------------------------- <br/>
 ------------------------------------------------------------------------------------- <br/> <br/>
 
 
 <img width="530" alt="Image" src="https://github.com/user-attachments/assets/eccb8f15-3cfd-4111-ae7a-321f973056aa" />\
 https://pico.pinout.xyz <br/> <br/>
 
+
+------------------------------------------------------------------------------------- <br/>
+--------------------------------------Pmod Gyro----------------------------------- <br/>
+------------------------------------------------------------------------------------- <br/> <br/>
+
+
+<img width="256" alt="Image" src="https://github.com/user-attachments/assets/94826334-864b-4826-b535-8c413edb676c" /> <br/>
+
+<img width="195" alt="Image" src="https://github.com/user-attachments/assets/6bf9f52b-dbef-43ec-a0e3-3957afd902f8" /> <br/> <br/>
 
 Berk Muammer Kuzu - AnadoLogic\
 https://www.linkedin.com/in/berk-muammer-kuzu/
