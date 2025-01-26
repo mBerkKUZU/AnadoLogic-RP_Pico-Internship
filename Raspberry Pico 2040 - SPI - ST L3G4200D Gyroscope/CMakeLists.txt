@@ -18,9 +18,7 @@ add_executable(UART_LED_Controller
 # Specify the target link libraries
 target_link_libraries(UART_LED_Controller
     pico_stdlib
-    hardware_uart
     hardware_spi
-    hardware_i2c
 )
 
 # Enable USB output, UART output, and the hardware floating point
