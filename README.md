@@ -1,4 +1,4 @@
-### AnadoLogic Raspberry Pico <br/>
+### AnadoLogic Raspberry Pico VSCode <br/>
 
 **Raspberry Pico RP2040 - VSCode - UART, SPI, TinyUSB, I2C** <br/> <br/>
 
