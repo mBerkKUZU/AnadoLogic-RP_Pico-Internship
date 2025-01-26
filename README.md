@@ -52,5 +52,12 @@ https://digilent.com/reference/_media/reference/pmod/pmodgyro/pmodgyro_rm.pdf <b
 
 https://digilent.com/reference/_media/reference/pmod/pmodgyro/stmicroelectronics-l3g4200d-datasheet.pdf <br/> <br/>
 
-Berk Muammer Kuzu - AnadoLogic\
-https://www.linkedin.com/in/berk-muammer-kuzu/
+**Berk Muammer Kuzu - AnadoLogic**\
+**https://www.linkedin.com/in/berk-muammer-kuzu**/ <br/> <br/> <br/>
+
+
+
+**With my endless thanks and respect to Mehmet Burak Aykenar, who supported me throughout my internship.**
+
+
+
